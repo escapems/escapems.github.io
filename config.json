@@ -2,5 +2,8 @@
     "title":"什么也没想好",
     "subTitle":"暂时打算用动量改变一下生活啦……",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark",
 }
