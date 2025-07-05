@@ -1,4 +1,4 @@
-# 什么也没想好 :link: [http://blog.meekdai.com](https://lailo1.github.io) 
+# 什么也没想好 :link: (https://lailo1.github.io) 
 ### :page_facing_up: [5](http://blog.meekdai.com/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 4262 
