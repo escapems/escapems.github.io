@@ -23,5 +23,6 @@
     "needComment":1,
     "themeMode":"manual",
     "dayTheme":"light",
-    "nightTheme":"dark"
+    "nightTheme":"dark",
+    "primerCSS":"<link href='https://blog.freeblock.cn/primer.css' rel='stylesheet' />"
 }
