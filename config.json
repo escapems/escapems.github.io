@@ -3,7 +3,7 @@
     "subTitle":"暂时打算用动量改变一下生活啦……",
     "avatarUrl":"https://github.com/lailo1/lailo1.github.io/blob/main/static/jeankiss.png?raw=true",
     "GMEEK_VERSION":"last",
-    "homeUrl":"http://blog.meekdai.com",
+    "homeUrl":"https://lailo1.github.io",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "startSite":"06/28/2025",
     "filingNum":"浙ICP备20023628号",
@@ -25,6 +25,6 @@
     "dayTheme":"light",
     "nightTheme":"dark",
     "primerCSS":"<link href='https://blog.freeblock.cn/primer.css' rel='stylesheet' />",
-    "script":"<script src='https://blog.freeblock.cn/plugins/ArticleTOC.js'></script><script>window.addEventListener('DOMContentLoaded', function () {var toc = document.querySelector('.toc');if (!toc) return;// 隐藏原生的 ArticleTOC 按钮var defaultBtn = document.querySelector('.toc-button');if (defaultBtn) defaultBtn.style.display = 'none';// 创建你自己的开关按钮var toggleImg = document.createElement('img');toggleImg.src = 'https://raw.githubusercontent.com/lailo1/lailo1.github.io/main/static/katsura.png';toggleImg.alt = '显示/隐藏目录';toggleImg.title = '目录按钮';toggleImg.style.position = 'fixed';toggleImg.style.bottom = '20px';toggleImg.style.right = '20px';toggleImg.style.width = '50px';toggleImg.style.height = '50px';toggleImg.style.zIndex = '9999';toggleImg.style.cursor = 'pointer';toggleImg.style.borderRadius = '8px';toggleImg.style.boxShadow = '0 0 8px rgba(0,0,0,0.2)';document.body.appendChild(toggleImg);// 初始为显示状态var tocVisible = true;toggleImg.addEventListener('click', function () {tocVisible = !tocVisible;toc.style.display = tocVisible ? 'block' : 'none';});});</script>"
+    "script":"<script src='https://blog.freeblock.cn/plugins/ArticleTOC.js'></script><script src='https://blog.freeblock.cn/plugins/lightbox.js'></script><script>window.addEventListener('DOMContentLoaded',function(){var toc=document.querySelector('.toc');if(!toc)return;var defaultBtn=document.querySelector('.toc-button');if(defaultBtn)defaultBtn.style.display='none';var toggleImg=document.createElement('img');toggleImg.src='https://raw.githubusercontent.com/lailo1/lailo1.github.io/main/static/katsura.png';toggleImg.alt='显示/隐藏目录';toggleImg.title='目录按钮';toggleImg.style.position='fixed';toggleImg.style.bottom='20px';toggleImg.style.right='20px';toggleImg.style.width='50px';toggleImg.style.height='50px';toggleImg.style.zIndex='9999';toggleImg.style.cursor='pointer';toggleImg.style.borderRadius='8px';toggleImg.style.boxShadow='0 0 8px rgba(0,0,0,0.2)';document.body.appendChild(toggleImg);var tocVisible=true;toggleImg.addEventListener('click',function(){tocVisible=!tocVisible;toc.style.display=tocVisible?'block':'none';});document.querySelectorAll('img').forEach(img=>{var link=document.createElement('a');link.href=img.src;link.setAttribute('data-lightbox','img');img.parentNode.insertBefore(link,img);link.appendChild(img);});});</script>"
 
 }
