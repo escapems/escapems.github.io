@@ -1,9 +1,239 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>逃离中学</title><link>https://escapems.github.io</link><description>面朝大海 戦い</description><copyright>逃离中学</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/escapems/escapems.github.io/blob/main/static/jeankiss.png?raw=true</url><title>avatar</title><link>https://escapems.github.io</link></image><lastBuildDate>Thu, 28 Aug 2025 11:57:39 +0000</lastBuildDate><managingEditor>逃离中学</managingEditor><ttl>60</ttl><webMaster>逃离中学</webMaster><item><title>桜華、散リ往ク頃 歌词拆解【自用】</title><link>https://escapems.github.io/post/ying-hua-%E3%80%81-san-%E3%83%AA-wang-%E3%82%AF-qing-%20-ge-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</link><description>## 播放歌曲
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>逃离中学</title><link>https://escapems.github.io</link><description>面朝大海 戦い</description><copyright>逃离中学</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/escapems/escapems.github.io/blob/main/static/jeankiss.png?raw=true</url><title>avatar</title><link>https://escapems.github.io</link></image><lastBuildDate>Thu, 28 Aug 2025 12:03:00 +0000</lastBuildDate><managingEditor>逃离中学</managingEditor><ttl>60</ttl><webMaster>逃离中学</webMaster><item><title>桜華、散リ往ク頃 歌词拆解【自用】</title><link>https://escapems.github.io/post/ying-hua-%E3%80%81-san-%E3%83%AA-wang-%E3%82%AF-qing-%20-ge-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</link><description>## 播放歌曲
 
 &lt;audio controls&gt;
   &lt;source src='https://escapems.github.io/escapems/assets/music/sakurahana_sanri_iku.mp3' type='audio/mpeg'&gt;
-  您的浏览器不支持 audio 元素。</description><guid isPermaLink="true">https://escapems.github.io/post/ying-hua-%E3%80%81-san-%E3%83%AA-wang-%E3%82%AF-qing-%20-ge-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</guid><pubDate>Thu, 28 Aug 2025 11:16:18 +0000</pubDate></item><item><title>明日、僕は君に会いに行く单词拆解【自用】</title><link>https://escapems.github.io/post/ming-ri-%E3%80%81-pu-%E3%81%AF-jun-%E3%81%AB-hui-%E3%81%84%E3%81%AB-xing-%E3%81%8F-dan-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</link><description>### 原歌词
+  您的浏览器不支持 audio 元素。</description><guid isPermaLink="true">https://escapems.github.io/post/ying-hua-%E3%80%81-san-%E3%83%AA-wang-%E3%82%AF-qing-%20-ge-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</guid><pubDate>Thu, 28 Aug 2025 11:16:18 +0000</pubDate></item><item><title>brave heart 歌词拆解【自用】</title><link>https://escapems.github.io/post/brave%20heart%20-ge-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</link><description>### 原歌词
+逃げたりあきらめるコトは 谁も
+一瞬あればできるから 歩き続けよう
+君にしかできないコトがある 青い星に
+光がなくせぬように
+
+つかめ! 描いた梦を
+まもれ! 大事な友を
+たくましい自分になれるさ
+知らないパワーが宿る ハートに火がついたら
+どんな愿いも 嘘じゃない
+きっとかなうから…show me your brave heart
+
+
+晴れの日ばかりじゃないから たまに
+冷たい雨も振るけれど 伞ひろげよう
+生き方に地図なんかないけど だから自由
+どこへだって行ける、君も
+
+はしれ! 风より速く
+めざせ! 空より远く
+新しい自分に逢えるさ
+知らない勇気が眠る ハートに気がついたら
+胸の中のどしゃ降りも
+きっと止むから…show me your brave heart
+
+
+つかめ! 眩しい明日を
+まもれ! 爱する人を
+たくましい自分になれるさ
+こわせ! 弱気な君を
+くずせ! ぶつかる壁を
+热い鼓动 武器になるからbelieve in your heart
+
+### ai拆解
+
+
+**逃げたりあきらめるコトは 誰も**
+&gt; **逃げる** (にげる - 动词): 逃跑
+&gt; **たり** (たり - 助词): 表示列举，比如...比如...
+&gt; **あきらめる** (あきらめる - 动词): 放弃
+&gt; **コト** (こと - 名词): 事情
+&gt; **は** (は - 助词): 主题助词
+&gt; **誰** (だれ - 名词): 谁
+&gt; **も** (も - 助词): 也，都
+
+**一瞬あればできるから 歩き続けよう**
+&gt; **一瞬** (いっしゅん - 名词): 一瞬间
+&gt; **ある** (ある - 动词): 有
+&gt; **ば** (ば - 助词): 如果...就...
+&gt; **できる** (できる - 动词): 能，可以
+&gt; **から** (から - 助词): 因为
+&gt; **歩く** (あるく - 动词): 走
+&gt; **続ける** (つづける - 动词): 继续
+
+**君にしかできないコトがある 青い星に**
+&gt; **君** (きみ - 名词): 你
+&gt; **に** (に - 助词): 对...
+&gt; **しか** (しか - 助词): 只有...
+&gt; **できる** (できる - 动词): 能，可以
+&gt; **コト** (こと - 名词): 事情
+&gt; **がある** (がある - 动词): 有...
+&gt; **青い** (あおい - 形容词): 蓝色的
+&gt; **星** (ほし - 名词): 星星
+&gt; **に** (に - 助词): 在...
+
+**光がなくせぬように**
+&gt; **光** (ひかり - 名词): 光
+&gt; **が** (が - 助词): 主语助词
+&gt; **なくす** (なくす - 动词): 弄丢，失去
+&gt; **ぬ** (ぬ - 助词): 没有，不能（古语用法，等同于ない）
+&gt; **ように** (ように - 助词): 为了...，以便...
+
+**つかめ! 描いた夢を**
+&gt; **つかむ** (つかむ - 动词): 抓住
+&gt; **描く** (えがく - 动词): 描绘
+&gt; **た** (た - 助词): 表示过去式
+&gt; **夢** (ゆめ - 名词): 梦想
+&gt; **を** (を - 助词): 宾语助词
+
+**まもれ! 大事な友を**
+&gt; **まもる** (まもる - 动词): 守护，保护
+&gt; **大事** (だいじ - 形容动词): 重要的
+&gt; **な** (な - 助词): 连接形容动词和名词
+&gt; **友** (とも - 名词): 朋友
+&gt; **を** (を - 助词): 宾语助词
+
+**たくましい自分になれるさ**
+&gt; **たくましい** (たくましい - 形容词): 健壮的，强悍的
+&gt; **自分** (じぶん - 名词): 自己
+&gt; **に** (に - 助词): 成为...
+&gt; **なる** (なる - 动词): 成为
+&gt; **さ** (さ - 助词): 表示感叹，断定
+
+**知らないパワーが宿る ハートに火がついたら**
+&gt; **知らない** (しらない - 动词): 不知道
+&gt; **パワー** (ぱわー - 名词): 力量 (power)
+&gt; **が** (が - 助词): 主语助词
+&gt; **宿る** (やどる - 动词): 寄宿，存在
+&gt; **ハート** (はーと - 名词): 心 (heart)
+&gt; **に** (に - 助词): 在...
+&gt; **火** (ひ - 名词): 火
+&gt; **が** (が - 助词): 主语助词
+&gt; **つく** (つく - 动词): 燃烧，点燃
+&gt; **たら** (たら - 助词): 如果...就...
+
+**どんな願いも 嘘じゃない**
+&gt; **どんな** (どんな - 连体词): 什么样的
+&gt; **願い** (ねがい - 名词): 愿望
+&gt; **も** (も - 助词): 也
+&gt; **嘘** (うそ - 名词): 谎言
+&gt; **じゃ** (じゃ - 助词): 是...的话 (口语中的では)
+&gt; **ない** (ない - 助词): 不是
+
+**きっとかなうから…show me your brave heart**
+&gt; **きっと** (きっと - 副词): 一定
+&gt; **かなう** (かなう - 动词): 实现
+&gt; **から** (から - 助词): 因为
+
+---
+
+**晴れの日ばかりじゃないから たまに**
+&gt; **晴れ** (はれ - 名词): 晴天
+&gt; **の** (の - 助词): 的
+&gt; **日** (ひ - 名词): 日子
+&gt; **ばかり** (ばかり - 助词): 只是...
+&gt; **じゃ** (じゃ - 助词): 是...的话 (口语中的では)
+&gt; **ない** (ない - 助词): 不是
+&gt; **から** (から - 助词): 因为
+&gt; **たまに** (たまに - 副词): 偶尔
+
+**冷たい雨も降るけれど 傘ひろげよう**
+&gt; **冷たい** (つめたい - 形容词): 冰冷的
+&gt; **雨** (あめ - 名词): 雨
+&gt; **も** (も - 助词): 也
+&gt; **降る** (ふる - 动词): 下雨
+&gt; **けれど** (けれど - 助词): 可是，但是
+&gt; **傘** (かさ - 名词): 伞
+&gt; **ひろげる** (ひろげる - 动词): 撑开
+
+**生き方に地図なんかないけど だから自由**
+&gt; **生き方** (いきかた - 名词): 生活方式
+&gt; **に** (に - 助词): 对...
+&gt; **地図** (ちず - 名词): 地图
+&gt; **なんか** (なんか - 助词): 之类的东西
+&gt; **ない** (ない - 助词): 没有
+&gt; **けど** (けど - 助词): 可是，但是
+&gt; **だから** (だから - 接续词): 所以
+&gt; **自由** (じゆう - 形容动词): 自由
+
+**どこへだって行ける、君も**
+&gt; **どこ** (どこ - 名词): 哪里
+&gt; **へ** (へ - 助词): 往...
+&gt; **だって** (だって - 助词): 也 (强调)
+&gt; **行ける** (いける - 动词): 能去
+&gt; **君** (きみ - 名词): 你
+&gt; **も** (も - 助词): 也
+
+**はしれ! 風より速く**
+&gt; **はしる** (はしる - 动词): 奔跑
+&gt; **風** (かぜ - 名词): 风
+&gt; **より** (より - 助词): 比...
+&gt; **速い** (はやい - 形容词): 快
+
+**めざせ! 空より遠く**
+&gt; **めざす** (めざす - 动词): 目标
+&gt; **空** (そら - 名词): 天空
+&gt; **より** (より - 助词): 比...
+&gt; **遠い** (とおい - 形容词): 远
+
+**新しい自分に逢えるさ**
+&gt; **新しい** (あたらしい - 形容词): 新的
+&gt; **自分** (じぶん - 名词): 自己
+&gt; **に** (に - 助词): 和...
+&gt; **逢える** (あえる - 动词): 能见到
+&gt; **さ** (さ - 助词): 表示感叹，断定
+
+**知らない勇気が眠る ハートに気がついたら**
+&gt; **知らない** (しらない - 动词): 不知道
+&gt; **勇気** (ゆうき - 名词): 勇气
+&gt; **が** (が - 助词): 主语助词
+&gt; **眠る** (ねむる - 动词): 沉睡
+&gt; **ハート** (はーと - 名词): 心 (heart)
+&gt; **に** (に - 助词): 在...
+&gt; **気がつく** (きがつく - 动词): 察觉到，注意到
+&gt; **たら** (たら - 助词): 如果...就...
+
+**胸の中のどしゃ降りも**
+&gt; **胸** (むね - 名词): 胸口
+&gt; **の** (の - 助词): 的
+&gt; **中** (なか - 名词): 里面
+&gt; **の** (の - 助词): 的
+&gt; **どしゃ降り** (どしゃぶり - 名词): 倾盆大雨
+&gt; **も** (も - 助词): 也
+
+**きっと止むから…show me your brave heart**
+&gt; **きっと** (きっと - 副词): 一定
+&gt; **止む** (やむ - 动词): 停止
+&gt; **から** (から - 助词): 因为
+
+---
+
+**つかめ! 眩しい明日を**
+&gt; **つかむ** (つかむ - 动词): 抓住
+&gt; **眩しい** (まぶしい - 形容词): 耀眼的
+&gt; **明日** (あす - 名词): 明天
+&gt; **を** (を - 助词): 宾语助词
+
+**まもれ! 愛する人を**
+&gt; **まもる** (まもる - 动词): 守护，保护
+&gt; **愛する** (あいする - 动词): 爱
+&gt; **人** (ひと - 名词): 人
+&gt; **を** (を - 助词): 宾语助词
+
+**たくましい自分になれるさ**
+(重复)
+
+**こわせ! 弱気な君を**
+&gt; **こわす** (こわす - 动词): 破坏
+&gt; **弱気** (よわき - 形容动词): 懦弱的
+&gt; **な** (な - 助词): 连接形容动词和名词
+&gt; **君** (きみ - 名词): 你
+&gt; **を** (を - 助词): 宾语助词
+
+**くずせ! ぶつかる壁を**
+&gt; **くずす** (くずす - 动词): 破坏，推翻
+&gt; **ぶつかる** (ぶつかる - 动词): 碰撞
+&gt; **壁** (かべ - 名词): 墙壁
+&gt; **を** (を - 助词): 宾语助词
+
+**熱い鼓動 武器になるからbelieve in your heart。</description><guid isPermaLink="true">https://escapems.github.io/post/brave%20heart%20-ge-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</guid><pubDate>Thu, 28 Aug 2025 07:25:38 +0000</pubDate></item><item><title>明日、僕は君に会いに行く单词拆解【自用】</title><link>https://escapems.github.io/post/ming-ri-%E3%80%81-pu-%E3%81%AF-jun-%E3%81%AB-hui-%E3%81%84%E3%81%AB-xing-%E3%81%8F-dan-ci-chai-jie-%E3%80%90-zi-yong-%E3%80%91.html</link><description>### 原歌词
 君を好きだけじゃものたりない
 あこがれだけじゃ埋めきれない
 淋しさだけが 今日もリアルで
